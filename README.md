@@ -1,5 +1,13 @@
 # README
 
+Please, enter the code first
+
+* cd git_exercise3
+
+* rails db:migrate
+
+* rails db:seed
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
